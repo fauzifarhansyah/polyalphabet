@@ -1,4 +1,4 @@
-# polyalphabet
+# polyalphabet ( Zig - Zag )
 file polyalphabet ini guna memenuhi prasyarat tugas kripto
 buatlah source code (saya disini menggunakan bahasa pemograman python) bahsa pemograman python
 
